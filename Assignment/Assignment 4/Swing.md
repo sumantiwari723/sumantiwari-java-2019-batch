@@ -1,6 +1,6 @@
 ### what is swing ?
 
-Swing is a part of java extended library.
+\=> Swing is a part of java extended library.
 
         1) Built on top of AWT API.
 
